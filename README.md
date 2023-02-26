@@ -1,5 +1,5 @@
 # learning to understand biological data 
-I am sharing my journey, trying to learn about coding as a biology learner, these codes are so so simple, basically as my memo notes.
+I am sharing my journey, trying to learn about coding as a biology learner, these codes are simple, basically as my memo notes.
 
 
 1-basics_codes: This file explains parsing FASTA files, alignment using clustal Omega, and calculating pairwise distance using Jukes-Cantor model
